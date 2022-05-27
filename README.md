@@ -2,7 +2,7 @@
 
 # Daftar API Lokal Indonesia
 
-Berisi API tentang Data Indonesia.
+Berisi API tentang Data Indonesia dari berbagai sumber dan diadaptasi sesuai kebutuhan.
 
 # Daftar dalam bahasa lain
 
